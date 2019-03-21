@@ -1,7 +1,7 @@
 package voraces;
 
-import java.util.ArrayList;
-import java.util.Scanner;
+        import java.util.ArrayList;
+        import java.util.Scanner;
 
 public class Activities {
     public static void main(String [] args){
